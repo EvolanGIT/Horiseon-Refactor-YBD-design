@@ -9,8 +9,8 @@
 
 ## Access
 
-Github Repository: 
-Live Website:
+- Github Repository: https://github.com/EvolanGIT/refactor-project-1
+- Live Website:
 
 ## Credits
 - Melany Pietrowski https://github.com/Melpie10 
