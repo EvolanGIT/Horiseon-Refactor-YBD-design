@@ -8,7 +8,7 @@
 - It offers a great way to reinforce the concepts learned in week 1 that consisted on HTML and CSS.
 
 ## Credits
-- The four Codesmen-
+-The four Codesmen-
 - Edwin Pietrowski https://github.com/BogartDME
 - Denart Ifurung https://github.com/difurung
 - Charles Beatty https://github.com/beattycharles
