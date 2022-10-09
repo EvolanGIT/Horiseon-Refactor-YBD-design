@@ -1,4 +1,4 @@
-# refactor-project-1
+# Refactor-project-1
 
 ## Refactoring for Horiseon's landing page.
 
@@ -8,6 +8,10 @@
 - It offers a great way to reinforce the concepts learned in week 1 that consisted on HTML and CSS.
 
 ## Credits
+-The four Codesmen-
+Edwin Pietrowski https://github.com/BogartDME
+Denart Ifurung https://github.com/difurung
+Charles Beatty https://github.com/beattycharles
 
 
 
