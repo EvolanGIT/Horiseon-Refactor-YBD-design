@@ -7,17 +7,30 @@
 - This is the first project that mocks up a true situation encountered in the professional world.
 - It offers a great way to reinforce the concepts learned in week 1 that consisted on HTML and CSS.
 
+## Access
+
+Github Repository: 
+Live Website:
+
 ## Credits
+- Melany Pietrowski https://github.com/Melpie10 
+
 -The four Codesmen-
 - Edwin Pietrowski https://github.com/BogartDME
 - Denart Ifurung https://github.com/difurung
 - Charles Beatty https://github.com/beattycharles
 
+## Contribution
 
+Suggestions are always welcomed. Open a comment for Pull Requests.
+
+## Support
+
+For any question or help pertaining the refactoring of this site, please contact us at yon_baermund@hotmail.com.
 
 ## License
 
-Copyright (c) 2012-2022 Scott Chacon and others
+Copyright (c) 2012-2022 Yonatan Bermudez.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
