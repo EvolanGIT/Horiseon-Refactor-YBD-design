@@ -9,9 +9,9 @@
 
 ## Credits
 -The four Codesmen-
-Edwin Pietrowski https://github.com/BogartDME
-Denart Ifurung https://github.com/difurung
-Charles Beatty https://github.com/beattycharles
+-Edwin Pietrowski https://github.com/BogartDME
+-Denart Ifurung https://github.com/difurung
+-Charles Beatty https://github.com/beattycharles
 
 
 
