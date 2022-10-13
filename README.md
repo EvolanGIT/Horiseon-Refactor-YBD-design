@@ -10,12 +10,12 @@
 ## Access
 
 - Github Repository: https://github.com/EvolanGIT/refactor-project-1
-- Live Website:
+- Live Website: https://evolangit.github.io/refactor-project-1/
 
 ## Credits
-- Melany Pietrowski https://github.com/Melpie10 
+- Melany Pietrowski https://github.com/Melpie10 for all your constructive comments and infinite patience when a concept proves difficult to understand
 
--The four Codesmen-
+-The four Codesmen- 
 - Edwin Pietrowski https://github.com/BogartDME
 - Denart Ifurung https://github.com/difurung
 - Charles Beatty https://github.com/beattycharles
