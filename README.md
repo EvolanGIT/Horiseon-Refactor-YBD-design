@@ -1,4 +1,4 @@
-# Refactor-project-1
+# Horiseon Refactor, YBD design
 
 ## Refactoring for Horiseon's landing page.
 
