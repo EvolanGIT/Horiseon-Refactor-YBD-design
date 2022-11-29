@@ -30,8 +30,8 @@ This is the screenshot of the full-size website portfolio.
 
 ## Access
 
-- Github Repository: https://github.com/EvolanGIT/refactor-project-1
-- Live Website: https://evolangit.github.io/refactor-project-1/
+- Github Repository: https://github.com/EvolanGIT/Horiseon-Refactor-YBD-design
+- Live Website: https://evolangit.github.io/Horiseon-Refactor-YBD-design/
 
 ## Credits
 - Melany Pietrowski https://github.com/Melpie10 for all your constructive comments and infinite patience when a concept proves difficult to understand
