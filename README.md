@@ -1,11 +1,32 @@
-# Refactor-project-1
+# Horiseon Refactor by YBD design.
 
-## Refactoring for Horiseon's landing page.
+## Description
 
 - It makes the website more accesible.
 - Scouted for any opportunity to make code DRY.
 - This is the first project that mocks up a true situation encountered in the professional world.
 - It offers a great way to reinforce the concepts learned in week 1 that consisted on HTML and CSS.
+
+## Technical Skills
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## Table of Contents
+
+- [Access](#access)
+- [Visuals](#visuals)
+- [Credits](#credits)
+- [License](#license)
+- [Features](#features)
+- [How to Contribute](#how-to-contribute)
+
+## Visuals
+
+This is the screenshot of the full-size website portfolio.
+    
+![alt fullsite](./assets/images/horiseonShowcase.png)
+    
 
 ## Access
 
@@ -30,24 +51,21 @@ For any question or help pertaining the refactoring of this site, please contact
 
 ## License
 
-Copyright (c) 2012-2022 Yonatan Bermudez.
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
-LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
-OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Copyright (c) [2022] [Yonatan Yael Bermudez Diez]
+
+
+## Features
+
+- Proper syntax for the HTML file.
+
+
+## How to Contribute
+
+Constructive Comments are always welcome. e-mail me: yon_baermund@hotmail.com
+
 ---
