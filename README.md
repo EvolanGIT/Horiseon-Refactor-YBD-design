@@ -1,8 +1,5 @@
 # Horiseon Refactor by YBD design.
 
-# Horiseon Refactor, YBD design
-
-
 ## Description
 
 - It makes the website more accesible.
