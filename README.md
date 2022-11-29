@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Horiseon Refactor by YBD design.
+=======
+# Horiseon Refactor, YBD design
+>>>>>>> 70c2896418a20ee70b746c7c002e8d5b5158db5d
 
 ## Description
 
